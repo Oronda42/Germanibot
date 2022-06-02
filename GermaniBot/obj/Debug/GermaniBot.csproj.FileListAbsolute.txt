@@ -1,0 +1,44 @@
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.exe.config
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.exe
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.pdb
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Form1.resources
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Properties.Resources.resources
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Resource1.resources
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.GenerateResource.cache
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.exe
+C:\Users\Oliver\source\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.pdb
+D:\Clé USb\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.exe.config
+D:\Clé USb\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.exe
+D:\Clé USb\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.pdb
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csprojAssemblyReference.cache
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Form1.resources
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Properties.Resources.resources
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Resource1.resources
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.GenerateResource.cache
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.CoreCompileInputs.cache
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.exe
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.pdb
+D:\Clé USb\repos\GermaniBot\GermaniBot\bin\Debug\Newtonsoft.Json.dll
+D:\Clé USb\repos\GermaniBot\GermaniBot\bin\Debug\NLog.dll
+D:\Clé USb\repos\GermaniBot\GermaniBot\bin\Debug\Newtonsoft.Json.xml
+D:\Clé USb\repos\GermaniBot\GermaniBot\bin\Debug\NLog.xml
+D:\Clé USb\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.CopyComplete
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.AssemblyReference.cache
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.SuggestedBindingRedirects.cache
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Form1.resources
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Properties.Resources.resources
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.Resource1.resources
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.GenerateResource.cache
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.CoreCompileInputs.cache
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.exe
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.pdb
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.exe.config
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.exe
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\bin\Debug\GermaniBot.pdb
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\bin\Debug\Newtonsoft.Json.dll
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\bin\Debug\NLog.dll
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\bin\Debug\Newtonsoft.Json.xml
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\bin\Debug\NLog.xml
+D:\FActures + ancien projets\repos\GermaniBot\GermaniBot\obj\Debug\GermaniBot.csproj.CopyComplete
